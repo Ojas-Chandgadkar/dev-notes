@@ -1,4 +1,0 @@
-1. Javascript 
-2. Typescript
-3. ReactJs
-4. React native
