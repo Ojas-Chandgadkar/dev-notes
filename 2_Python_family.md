@@ -4,22 +4,20 @@
 
 
 
-=====================================================
-1. Basics
-=====================================================
+#1. Basics  
 
 Datatypes : 
 	Primitive: int, float, bool, str
 	Nonprimitive: list, tuple, dict, set
 
 
-Operators : 
-	Arithmetic (+ - * / % ** //)
-	Assignment (= += -= *= /= %= **= //=)
-	Comparison (== != > < >= <=)
-	Logical (and, or, not)
-	Identity (is, is not)
-	Membership (in, not in)	
+Operators :   
+	Arithmetic (+ - * / % ** //)  
+	Assignment (= += -= *= /= %= **= //=)  
+	Comparison (== != > < >= <=)  
+	Logical (and, or, not)  
+	Identity (is, is not)  
+	Membership (in, not in)	  
 	Bitwise (& | ^ ~ << >>)	
 
 Input/Output:
@@ -39,7 +37,7 @@ Tricks:
 	
 
 =====================================================
-2. Control Flow
+1. Control Flow
 =====================================================
 
 Conditionals : 
