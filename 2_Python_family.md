@@ -3,8 +3,8 @@
 | Python | Basics |
 
 
-
-#1. Basics  
+ 
+# 1. Basics  
 
 Datatypes : 
 	Primitive: int, float, bool, str
