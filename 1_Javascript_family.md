@@ -8,7 +8,7 @@
 # 1. Javascript / Ecmascript
 
 Javascript runs anywhere (but it needs a runtime)   
-<img src="./images/js_venn_diagram.jpg.png" alt="Javascript venn" width="50%" />
+<img src="./images/js_venn_diagram.jpg" alt="Javascript venn" width="50%" />
 
 ### Javascript runtime :   
 Web browsers have their own engine, like chrome has v8 engine       
