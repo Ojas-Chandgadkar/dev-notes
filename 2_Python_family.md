@@ -43,7 +43,8 @@ Conditionals :
 	Switch (match val: case val: case_:)    
     
 Loops :    
-	For :	    
+	For :	
+    ```python    
 		for animal in ["dog", "cat"]:    
 		for i in range(lower,upper,step):    
 		for i, value in enumerate(animals):    
