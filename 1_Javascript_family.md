@@ -8,13 +8,13 @@
 # 1. Javascript / Ecmascript
 
 Javascript runs anywhere (but it needs a runtime)   
-![Javascript Venn diagram](./images/js_venn_diagram.jpg) 
+<img src="./images/js_venn_diagram.jpg.png" alt="Javascript venn" width="50%" />
 
 ### Javascript runtime :   
 Web browsers have their own engine, like chrome has v8 engine       
 Servers require a runtime like nodejs, deno, bun to be installed  
 
-<img src="./images/js_runtime.png" alt="Javascript runtime" width="25%" />
+<img src="./images/js_runtime.png" alt="Javascript runtime" width="50%" />
 
 
 The Event Loop allows js to perform non-blocking, asynchronous operations even though it is single-threaded. 
